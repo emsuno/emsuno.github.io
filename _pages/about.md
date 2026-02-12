@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. student at LMU Munich, supervised by [Prof. Thomas Seidl](https://www.ifi.lmu.de/dbs/en/persons/contact-page/thomas-seidl-d7ba2a79.html) (MCML Diector, ACM KDD 2026 SAC). 
+I am a second-year Ph.D. student at LMU Munich, supervised by [Prof. Thomas Seidl](https://www.ifi.lmu.de/dbs/en/persons/contact-page/thomas-seidl-d7ba2a79.html) (MCML Diector, latest service: ACM KDD 2026 SAC). 
 I also collaborate with [Prof. Hinrich Schütze](https://scholar.google.com/citations?user=qIL9dWUAAAAJ&hl=en), [Prof. Jiancheng Lv](https://scholar.google.com/citations?user=0TCaWKwAAAAJ&hl=en), and [Prof. Barbara Plank](https://bplank.github.io/). My research focus is around large vision-langugae models, where I am particularly interested in how VLMs perceive and understand the physical world to develop advanced reasoning and planning capabilities.
 
 
