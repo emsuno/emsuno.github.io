@@ -23,7 +23,7 @@ author:
 analytics:
   provider: "google-analytics-4" 
   google:
-    tracking_id: "G-XXXXXXXXXX" # 这里填入你的 ID
+    tracking_id: "G-DJV777MPJ6" # 这里填入你的 ID
 
 # 社交链接设置 (不用就空着)
 twitter:
