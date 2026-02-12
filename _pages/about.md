@@ -13,4 +13,4 @@ I also collaborate with [Prof. Hinrich Schütze](https://scholar.google.com/cita
 
 News
 ======
-Our work "Human Uncertainty-Aware Data Selection and Automatic Labeling in Visual Question Answering" has been accepted by ICLR 26! See you in Rio!
+Our work "Human Uncertainty-Aware Data Selection and Automatic Labeling in Visual Question Answering" has been accepted by ***ICLR 26***! See you in Rio!
