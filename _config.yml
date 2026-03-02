@@ -13,8 +13,8 @@ author:
   name: "Jian Lan"
   location: "Munich, Germany"
   email: "lan@dbs.ifi.lmu.de"
+  googlescholar: "https://scholar.google.com/citations?user=QD7lzBsAAAAJ&hl=en"
   
-
 # 导航栏配置 (对应 _data/navigation.yml)
 # 如果你想精简顶部菜单，去修改 _data/navigation.yml 文件
 
@@ -85,7 +85,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
-googlescholar: "https://scholar.google.com/citations?user=QD7lzBsAAAAJ&hl=en"
+
 markdown: kramdown
 highlighter: rouge
 timezone: Europe/Berlin
