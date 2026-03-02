@@ -30,7 +30,7 @@ twitter:
   username: 
 facebook:
   username: 
-googlescholar: "https://scholar.google.com/citations?user=QD7lzBsAAAAJ&hl=en"
+
 # 内容处理设置
 include:
   - .htaccess
@@ -85,7 +85,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
-
+googlescholar: "https://scholar.google.com/citations?user=QD7lzBsAAAAJ&hl=en"
 markdown: kramdown
 highlighter: rouge
 timezone: Europe/Berlin
