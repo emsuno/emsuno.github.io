@@ -13,7 +13,7 @@ author:
   name: "Jian Lan"
   location: "Munich, Germany"
   email: "lan@dbs.ifi.lmu.de"
-  scholar: "https://scholar.google.com/citations?user=QD7lzBsAAAAJ&hl=en"
+  googlescholar: "https://scholar.google.com/citations?user=QD7lzBsAAAAJ&hl=en"
 
 # 导航栏配置 (对应 _data/navigation.yml)
 # 如果你想精简顶部菜单，去修改 _data/navigation.yml 文件
