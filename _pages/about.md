@@ -12,6 +12,8 @@ I also collaborate with [Prof. Hinrich Schütze](https://scholar.google.com/cita
 
 Before diving into my PhD, I was lucky to have a wealth of exchange experiences. Exploring the world and seeing it through different lenses has been an invaluable part of my personal growth: Arizona State University 🇺🇸 (advised by [Prof. Huan Liu](https://scholar.google.com/citations?user=Dzf46C8AAAAJ&hl=en&oi=ao), [Kai Shu](https://scholar.google.com/citations?user=-6bAV2cAAAAJ&hl=en&oi=ao), and [Guoliang Xue](https://scholar.google.com/citations?user=9gBvN78AAAAJ&hl=en)); University of Oxford 🇬🇧.
 
+I'm always looking for self-motivated bachelor and master students. If you are looking for thesis opportunity or want to do interesting research projects with me, feel free to reach out!
+
 ## 🚀 News
 
 * **[2026.01]** ✨ Our work "Human Uncertainty-Aware Data Selection and Automatic Labeling in Visual Question Answering" has been accepted by ***ICLR 26*** - See you in Rio!
