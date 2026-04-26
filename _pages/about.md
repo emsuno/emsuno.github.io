@@ -15,5 +15,5 @@ Before diving into my PhD, I was lucky to have a wealth of exchange experiences.
 I'm always looking for self-motivated bachelor and master students. If you are looking for thesis opportunity or want to do interesting research projects with me, feel free to reach out!
 
 ## 🚀 News
-
+* **[2026.04]**  I will visit [UCSD](https://ucsd.edu) this fall, supervised by [Prof. Zhuowen Tu](https://scholar.google.com/citations?user=9oz-dvgAAAAJ&hl=en&oi=ao)
 * **[2026.01]** ✨ Our work "Human Uncertainty-Aware Data Selection and Automatic Labeling in Visual Question Answering" has been accepted by ***ICLR 26*** - See you in Rio!
